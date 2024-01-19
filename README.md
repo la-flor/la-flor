@@ -34,7 +34,7 @@ const currentStatus = currentStack.includes(currentActivity)
   <img src="./static/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="54">&emsp;
   <img src="./static/javascript.svg" title="JavaScript" alt="JavaScript Logo" width="54">&emsp;
   <img src="./static/react.svg" title="ReactJS" alt="ReactJS Logo" width="57">&emsp;
-  <img src="./static/nextjs.svg" title="NextJS" alt="NextJS Logo" height="96" width="96">&emsp;
+  <img src="./static/nextjs.svg" title="NextJS" alt="NextJS Logo" height="56" width="56">&emsp;
   <img src="./static/nodejs.svg" title="NodeJS" alt="NodeJS Logo" width="72">&emsp;
   <img src="./static/mysql.svg" title="MySQL" alt="MySQL Logo" width="50">&emsp;
   <img src="./static/postgresql.svg" title="postgreSQL" alt="postgreSQL Logo" width="54">&emsp;
