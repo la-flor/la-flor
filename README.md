@@ -2,9 +2,9 @@
 
 <h1 align="center"> Hello... 👋 Welcome to My GitHub</h1>
 
-- 🔭 I’m currently working on my portfolio site, [Loop-Meet Meetup Scheduler](https://github.com/la-flor/loop-meet-chrome-extension), and finding my next place of employment.
+- 🔭 I’m currently working on my portfolio site and [Loop-Meet Meetup Scheduler](https://github.com/la-flor/loop-meet-chrome-extension).
 - 🌱 I’m currently learning Next.js 14 changes and diving deeper into Chrome MV3
-- 👯 I’m looking to collaborate, so please reach out if you're interested!
+- 👯 I’m looking to collaborate on a freelance time tracking application so please reach out if you're interested!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leifaflor)
 
 ```javascript
